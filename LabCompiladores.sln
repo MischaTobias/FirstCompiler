@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab01_MischaTobias_1170919"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab02_MischaTobias_1170919", "Lab02_MischaTobias_1170919\Lab02_MischaTobias_1170919.csproj", "{3D0638E3-CA17-4554-AFB7-D693227B0B63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCompiler", "CustomCompiler\CustomCompiler.csproj", "{6A1AB9FE-ABAD-4C0B-A28A-45E07B60A35C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomCompiler", "CustomCompiler\CustomCompiler.csproj", "{6A1AB9FE-ABAD-4C0B-A28A-45E07B60A35C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_PrimerCompilador", "Lab1_PrimerCompilador\Lab1_PrimerCompilador.csproj", "{C8EF35C9-00BE-4E60-8733-57577C1307EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab1_PrimerCompilador", "Lab1_PrimerCompilador\Lab1_PrimerCompilador.csproj", "{C8EF35C9-00BE-4E60-8733-57577C1307EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
